@@ -1,4 +1,4 @@
-package com.bridgelabhashtableuc2;
+package com.bridgelabzhashtableuc3;
 
 public class MyMapNode<K, V> implements INode<K> {
 	K key;

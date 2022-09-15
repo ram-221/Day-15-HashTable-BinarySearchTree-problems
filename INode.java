@@ -1,4 +1,4 @@
-package com.bridgelabhashtableuc2;
+package com.bridgelabzhashtableuc3;
 
 public interface INode<K> {
 	K getKey();
@@ -9,5 +9,4 @@ public interface INode<K> {
 
 	void setNext(INode<K> next);
 
-	
 }
